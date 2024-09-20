@@ -13,7 +13,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["593995004980", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
+["593995004980", '𝙊𝙬𝙣𝙚𝙧 ', true], //𝙎𝙚𝙗𝙖𝙨 𝘽𝙤𝙩-𝗠𝗗
 ["593992402778"], 
 ["593992402778"], 
 ["593992402778"],
